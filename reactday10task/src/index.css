@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+.cart-container {
+  width: 80%;
+  margin: 50px auto;
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.cart-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cart-table th, .cart-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.cart-summary {
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+}
